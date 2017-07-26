@@ -1,0 +1,1 @@
+{"raster_function":{"type":"Colormap_to_RGB_function"}, "raster_function_arguments": {"raster":{"name":"raster","is_raster":true,"type":"Raster_function_variable"}, "type":"Raster_function_arguments"}, "type":"Raster_function_template"}

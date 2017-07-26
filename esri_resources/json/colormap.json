@@ -1,0 +1,7 @@
+{ "raster_function_arguments": { "raster_colormap":{"colors":[color1,color2,...,colorN],"type":"Raster_function_variable"},
+    "raster":{"name":"raster","is_raster":true,"type":"Raster_function_variable"},
+    "type":"Raster_function_arguments"
+  },
+  "raster_function":{"type":"Colormap_function"},
+  "type":"Raster_function_template"
+}
